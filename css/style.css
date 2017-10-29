@@ -20,6 +20,24 @@
   text-align: center;
 }
 
+.process {
+  text-align: center;
+}
+
+.subtitle1 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.subtitle2 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.text {
+  font-size: 14px;
+}
+
 .image {
   text-align: center;
 }
