@@ -2,7 +2,7 @@
   font-family: Helvetica;
 }
 
-.header {
+#header {
   background-image: url("../resources/the-flatiron-building.png");
 }
 
@@ -20,7 +20,7 @@
   text-align: center;
 }
 
-.process {
+#process {
   text-align: center;
 }
 
@@ -39,5 +39,17 @@
 }
 
 .image {
+  text-align: center;
+}
+
+#subtitlewhite {
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+  text-align:center;
+  background-image: url("../resources/the-flatiron-building.png");
+}
+
+#work, #team, #contact {
   text-align: center;
 }
