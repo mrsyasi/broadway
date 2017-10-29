@@ -6,6 +6,10 @@
   background-image: url("../resources/the-flatiron-building.png");
 }
 
+.linknav {
+  color: white;
+}
+
 #title {
   font-size: 70px;
   font-weight: bold;
@@ -52,4 +56,27 @@
 
 #work, #team, #contact {
   text-align: center;
+}
+
+#foot {
+  background-color: dimgray;
+}
+
+#copyright {
+  font-size: 11px;
+  color: white;
+  display: inline;
+}
+
+#footnav {
+  list-style-type: none;
+  padding-left: 0px;
+}
+
+#navhor {
+  display: inline-block;
+}
+
+.linavhor {
+  display: inline;
 }
